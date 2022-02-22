@@ -1,6 +1,6 @@
-package p1;
+package p2;
 
-public class Main
+public class Principal
 {
     public static void main(String[] args) {
         System.out.println("DDDDDDDDdd");
